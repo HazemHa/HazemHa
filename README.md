@@ -8,7 +8,7 @@ My name is Hazem.
 - 🔭 I’m currently working for IoT company in Dubai.
 - 🌱 I’m currently learning about any technology that helps me to connect devices together.
 
-- Backend Developer
+- Software Engineer
 
 🖥️ Frontend: VueJs, HTML, CSS, Javascript, Bootstrap.
 <br>
